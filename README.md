@@ -1,9 +1,6 @@
 
 
-<img src="https://i.imgur.com/948P2J3.jpg" alt="pleb" width="whatever" height="whatever";"/>
-<a href="https://discord.gg/7bzzNUU">
-<img src="https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c9/JoinDiscord.png/revision/latest?cb=20171008232554" alt="discord" width="whatever" height="whatever""/> 
-</a>
+<img src="https://i.imgur.com/948P2J3.jpg" alt="pleb" width="450px"/>
 
 # YuGiOh! Card Maker
 
