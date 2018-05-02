@@ -1,11 +1,8 @@
-<img src="https://i.imgur.com/948P2J3.jpg" alt="pleb" style="width: 80%;     
-    display: block;
-    margin-left: auto;
-    margin-right: auto;"/>
+
+
+<img src="https://i.imgur.com/948P2J3.jpg" alt="pleb" width="whatever" height="whatever";"/>
 <a href="https://discord.gg/7bzzNUU">
-<img src="https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c9/JoinDiscord.png/revision/latest?cb=20171008232554" alt="discord" style="width: 25%;display: block;
-    margin-left: auto;
-    margin-right: auto;"/> 
+<img src="https://vignette.wikia.nocookie.net/leagueoflegends/images/c/c9/JoinDiscord.png/revision/latest?cb=20171008232554" alt="discord" width="whatever" height="whatever""/> 
 </a>
 
 # YuGiOh! Card Maker
