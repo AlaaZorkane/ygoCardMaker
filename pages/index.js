@@ -1,14 +1,6 @@
-import Link from 'next/link'
 
-//////////////////////////////////////////////////////////////////////
-
-const Index = () => (
+export default () => (
     <div>
-        <Link href="/about">
-            <button>Go to About Page</button>
-        </Link>
-      <p>Hello Next.js</p>
+      <p>Website under construction, please comeback later :)</p>
     </div>
   )
-  
-  export default Index

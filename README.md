@@ -8,11 +8,12 @@
 
 Simple but comprehensive yugioh card maker.
 
-**Made originally for the Pleb Haccermen discord bot**
+**Made for the Pleb Haccermen discord bot**
 
 ------------
 
 ## Changelog
 
 - Version 0.0.1a
+
     +Initial launch

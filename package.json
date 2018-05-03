@@ -1,6 +1,6 @@
 {
   "name": "ygoCardMaker",
-  "version": "1.0.0",
+  "version": "0.0.1a",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,11 +19,11 @@
   },
   "homepage": "https://github.com/AlaaZorkane/ygoCardMaker#readme",
   "dependencies": {
-    "hoek": "^5.0.3",
     "next": "^6.0.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "semantic-ui": "^2.3.1",
-    "semantic-ui-react": "^0.80.0"
+    "semantic-ui-react": "^0.80.0",
+    "webfont": "^8.1.2"
   }
 }
